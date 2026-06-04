@@ -9,6 +9,18 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 
 ## 🧾 Program
 
+```python
+print('T')
+print('a')
+```
+
 ## Output
 
+```text
+T
+a
+```
+
 ## Result
+
+Thus, the Python program to print character literals was executed successfully.
